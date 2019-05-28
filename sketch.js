@@ -7,7 +7,7 @@ can.class('bdd');
 txy=new logoXY(0,0,0);
 t=new logoXY(0,0,0);
 frameRate(r);
-strokeWeight(.5);
+strokeWeight(2);
 
 }
 let ang=0;
